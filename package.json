@@ -1,0 +1,40 @@
+{
+  "name": "@bibletalkai/language-content",
+  "version": "1.0.0",
+  "description": "Language content for BibleTalkAI.com",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "prepublish": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Christopher Dorst",
+    "email": "chris@dorst.email",
+    "url": "https://github.com/cdorst"
+  },
+  "license": "MIT",
+  "homepage": "https://bibletalkai.com",
+  "bugs": {
+    "url": "https://github.com/BibleTalkAI/bibletalkai_language-content/issues",
+    "email": "support@bibletalkai.com"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/cdorst"
+    },
+    {
+      "type": "liberapay",
+      "url": "https://liberapay.com/cdorst"
+    }
+  ],
+  "repository": "github:BibleTalkAI/bibletalkai_language-content",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
