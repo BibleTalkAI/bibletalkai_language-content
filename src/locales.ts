@@ -33,4 +33,39 @@ const locales = [
   "lv"
 ];
 
-export { locales };
+const localesOpenGraph = [
+  "en_US",
+  "es_ES",
+  "fr_FR",
+  "zh_CN",
+  "de_DE",
+  "he_IL",
+  "it_IT",
+  "pt_BR",
+  "ar_XA",
+  "hi_IN",
+  "bn_IN",
+  "nl_NL",
+  "ru_RU",
+  "ja_JP",
+  "ur_PK",
+  "id_ID",
+  "vi_VN",
+  "ko_KR",
+  "jv_ID",
+  "th_TH",
+  "ms_MY",
+  "mr_IN",
+  "te_IN",
+  "ta_IN",
+  "tr_TR",
+  "pl_PL",
+  "ml_IN",
+  "fil_PH",
+  "sv_SE",
+  "da_DK",
+  "no_NO",
+  "lv_LV",
+];
+
+export { locales, localesOpenGraph };

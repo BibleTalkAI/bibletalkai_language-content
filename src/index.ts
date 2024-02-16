@@ -1,4 +1,4 @@
-import { locales } from './locales'
+import { locales, localesOpenGraph } from './locales'
 import { content as Assistants } from './language/Assistants'
 import { content as CallToAction } from './language/CallToAction'
 import { content as Conversations } from './language/Conversations'
@@ -15,6 +15,7 @@ export * from './language'
 export * from './language/SEO'
 export { 
   locales,
+  localesOpenGraph,
   Assistants,
   CallToAction,
   Conversations,
