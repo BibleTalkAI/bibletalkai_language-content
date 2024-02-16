@@ -1,6 +1,7 @@
 import { locales } from './locales'
 import { content as Assistants } from './language/Assistants'
 import { content as CallToAction } from './language/CallToAction'
+import { content as Conversations } from './language/Conversations'
 import { content as FAQ } from './language/FAQ'
 import { content as Footer } from './language/Footer'
 import { content as Header } from './language/Header'
@@ -16,6 +17,7 @@ export {
   locales,
   Assistants,
   CallToAction,
+  Conversations,
   FAQ,
   Footer,
   Header,
