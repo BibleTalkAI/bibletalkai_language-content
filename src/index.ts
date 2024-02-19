@@ -11,8 +11,8 @@ import { content as Pricing } from './language/Pricing.js'
 import { content as Testimonial } from './language/Testimonial.js'
 import { content as TestimonialWide } from './language/TestimonialWide.js'
 
-export * from './language'
-export * from './language/SEO'
+export * from './language.js'
+export * from './language/SEO.js'
 export { 
   locales,
   localesOpenGraph,
